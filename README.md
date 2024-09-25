@@ -1,4 +1,4 @@
-# JPI Business Card Reader
+# JPI Business Card Machine Learning OCR App
 
 [Project Plan](https://docs.google.com/document/d/16PUe8k9R38RoEZ8tItnoPgVwN4BpD1i-MQLAlYby_fk/edit?usp=sharing)
 
